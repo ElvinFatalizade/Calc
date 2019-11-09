@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\bin\Debug\netcoreapp2.1\SOAP2JSON.deps.json
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\bin\Debug\netcoreapp2.1\SOAP2JSON.runtimeconfig.json
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\bin\Debug\netcoreapp2.1\SOAP2JSON.runtimeconfig.dev.json
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\bin\Debug\netcoreapp2.1\SOAP2JSON.dll
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.AssemblyInfo.cs
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\bin\Debug\netcoreapp2.1\SOAP2JSON.pdb
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.dll
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.pdb
+C:\Users\user\source\repos\Soap2Json\SOAP2JSON\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\source\repos\Soap2Json\SOAP2JSON\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\source\repos\Soap2Json\SOAP2JSON\bin\Debug\netcoreapp2.1\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\user\source\repos\Soap2Json\SOAP2JSON\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\source\repos\SOAP2JSON\SOAP2JSON\obj\Debug\netcoreapp2.1\SOAP2JSON.csprojAssemblyReference.cache
